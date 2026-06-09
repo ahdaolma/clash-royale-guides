@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Counter Lava Hound Matters in Clash Royale
+![Related image](https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=400&fit=crop)
 
 According to 2026 Clash Royale player statistics, mastering counter lava hound can significantly improve your win rate. Top players consistently emphasize that understanding counter lava hound separates casual players from competitive champions.
 
@@ -35,6 +36,7 @@ Understanding how cards interact with each other separates good players from gre
 The meta changes every season. Stay flexible and adapt your approach based on what works in the current meta.
 
 ## Step-by-Step Guide
+![Related image](https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=400&fit=crop)
 
 ### Step 1: Build Your Deck
 Start with a win condition card as your anchor. Add support cards that synergize well. Include at least one spell, one building or swarm counter, and one tank killer.
