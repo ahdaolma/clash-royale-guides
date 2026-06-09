@@ -13,7 +13,7 @@ keywords:
 
 ## What Is Golem Beatdown?
 
-![Clash Royale strategy](https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.MBQiMthUgwJiWx7WqqEA1AHaD7&f=1)
 
 
 Golem Beatdown is the heaviest archetype in Clash Royale. The core strategy: sacrifice tower damage in single elixir to build an unstoppable death ball in double elixir. A Golem push in overtime with Night Witch, Lumberjack, and a well-timed Lightning spell can take a tower from full HP in a single push.
@@ -86,7 +86,7 @@ P.E.K.K.A shreds Golem. Battle Ram punishes opposite lane. You need to out-cycle
 
 ## Pro Tips
 
-![Clash Royale gameplay](https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.49OnXTrnCaPWS5daiyb8gAAAAA&f=1)
 
 
 1. **The 10-Second Rule:** After placing Golem, count to 10 before placing any support troops. This ensures you have maximum elixir for the push.

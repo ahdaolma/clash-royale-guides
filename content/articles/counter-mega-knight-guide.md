@@ -13,7 +13,7 @@ keywords:
 
 ## Why Mega Knight Dominates Mid-Ladder
 
-![Clash Royale strategy](https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.D9oHcRxA5aEAtPF_oFqfZgHaFW&f=1)
 
 
 Mega Knight appears in 34% of decks between 4000-6000 trophies (RoyaleAPI, May 2026). His spawn damage (480 at level 14) and splash attack make him the single most complained-about card in mid-ladder. But here is what most players miss: **Mega Knight is actually a negative elixir trade machine if you know how to counter him properly.**
@@ -90,7 +90,7 @@ If your opponent places Mega Knight behind their King Tower (a 7-elixir commitme
 
 ## Common Mistakes
 
-![Clash Royale gameplay](https://images.unsplash.com/photo-1552820728-8b83bb6b2cf7?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.GNMjJVNEAK_ryDCDS0_sHQAAAA&f=1)
 
 
 1. **Placing troops before spawn damage** ? MK's 480 spawn kills all glass cannons

@@ -13,7 +13,7 @@ keywords:
 
 ## Why 2.6 Hog Cycle Survived 7 Years of Balance Changes
 
-![Clash Royale strategy](https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.3b1JaR-Koepncuhvg61UtAHaF2&f=1)
 
 
 Since Clash Royale launched in 2016, exactly one deck has remained consistently viable through every meta shift: 2.6 Hog Cycle. No other deck can claim this. The reason is not the cards ? it is the **skill cap**.
@@ -97,7 +97,7 @@ Whoever cycles Hog more efficiently wins. Whoever misses Log on Skeletons loses.
 
 ## Pro Tips from Top 1000 Players
 
-![Clash Royale gameplay](https://images.unsplash.com/photo-1549036615-8494e9b3b2d4?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.kiEfYdb9PZeWQMlmn3bn4gAAAA&f=1)
 
 
 1. **Never Hog first.** Always wait for their card or their leak at 10 elixir. A first-move Hog means they have their full hand to counter.

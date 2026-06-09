@@ -13,7 +13,7 @@ keywords:
 
 ## Why Elixir Management Wins Games
 
-![Clash Royale strategy](https://images.unsplash.com/photo-1552820728-8b83bb6b2cf7?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.4GRpaTcmHYvf__H1ijvqugAAAA&f=1)
 
 
 At tournament standard, both players generate 1 elixir every 2.8 seconds in single elixir and 1 elixir every 1.4 seconds in double elixir. The match lasts 5 minutes (3 minutes normal + 2 minutes overtime maximum). That is roughly 178 elixir per player in a full match.
@@ -120,7 +120,7 @@ You have 6+ elixir more than your opponent. They are functionally at zero. Play 
 
 ## Pro-Level Tips
 
-![Clash Royale gameplay](https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.rjLTnYyrBfowkh_19UQoZQHaEK&f=1)
 
 
 1. **Count out loud when practicing.** Say "they're at 6... 7... they played a 4-cost... now 3..." Verbalizing forces your brain to track.

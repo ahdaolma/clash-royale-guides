@@ -13,7 +13,7 @@ keywords:
 
 ## What Is LavaLoon?
 
-![Clash Royale strategy](https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%2Fid%2FOIP.XW9C2v2R0ThrOhb58OgsDgAAAA&f=1)
 
 
 LavaLoon is the premier air beatdown deck in Clash Royale. You play Lava Hound (7 elixir) as an aerial tank that soaks damage while Balloon (5 elixir) delivers 1266 damage per hit to their tower. When executed correctly, a LavaLoon push is the single most devastating offensive in the game.
@@ -98,7 +98,7 @@ Electro Wizard resets your Inferno Dragon. Poison kills your Skeleton Dragons. M
 
 ## Pro Tips
 
-![Clash Royale gameplay](https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.k_l7-OsyXm3DoxxUZ3lEggHaKG&f=1)
 
 
 1. **Hound Popping:** Hound explodes into 6 Lava Pups dealing 75 damage each (450 total to tower if ignored). This is equivalent to 1.5 Balloon hits. Track your Hound's HP and Lightning the tower right before it pops ? the tower targets Pups and your Balloon connects.

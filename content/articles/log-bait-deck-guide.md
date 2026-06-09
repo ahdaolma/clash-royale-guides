@@ -13,7 +13,7 @@ keywords:
 
 ## What Is Log Bait?
 
-![Clash Royale strategy](https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.0HvlX_Qs8Lyv8vj8v04heQHaGZ&f=1)
 
 
 Log Bait is one of the oldest and most reliable archetypes in Clash Royale. The concept is simple: run multiple cards that demand a specific spell counter, forcing your opponent to choose which threat to answer. Their Log cannot stop both your Goblin Barrel AND your Princess AND your Dart Goblin.
@@ -95,7 +95,7 @@ In double elixir, if your opponent tower is below 800 HP, switch to Rocket cycli
 
 ## Pro Tips
 
-![Clash Royale gameplay](https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800&h=400&fit=crop)
+![Clash Royale card](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EjjgGxiyUa_78j2hUmPpmAHaDt&f=1)
 
 
 1. **Count their spell cycle.** If you know their Log is 2 cards away, you can Barrel safely. After they use Log, count in your head: 1-2-3-4, Log is back.
