@@ -13,6 +13,9 @@ keywords:
 
 ## Why 2.6 Hog Cycle Survived 7 Years of Balance Changes
 
+![Clash Royale strategy](https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&h=400&fit=crop)
+
+
 Since Clash Royale launched in 2016, exactly one deck has remained consistently viable through every meta shift: 2.6 Hog Cycle. No other deck can claim this. The reason is not the cards ? it is the **skill cap**.
 
 The 2.6 deck (named for its 2.6 average elixir cost, the lowest of any meta deck) is:
@@ -93,6 +96,9 @@ Whoever cycles Hog more efficiently wins. Whoever misses Log on Skeletons loses.
 **Evolution Skeletons:** Surround a lone troop with Evo Skeletons. They multiply on hit, quickly becoming 6, then 12, then 24 Skeletons. This kills a Mega Knight in under 3 seconds for 1 elixir. The single most unfair interaction in the game.
 
 ## Pro Tips from Top 1000 Players
+
+![Clash Royale gameplay](https://images.unsplash.com/photo-1549036615-8494e9b3b2d4?w=800&h=400&fit=crop)
+
 
 1. **Never Hog first.** Always wait for their card or their leak at 10 elixir. A first-move Hog means they have their full hand to counter.
 

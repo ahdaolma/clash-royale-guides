@@ -13,6 +13,9 @@ keywords:
 
 ## Why Mega Knight Dominates Mid-Ladder
 
+![Clash Royale strategy](https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=400&fit=crop)
+
+
 Mega Knight appears in 34% of decks between 4000-6000 trophies (RoyaleAPI, May 2026). His spawn damage (480 at level 14) and splash attack make him the single most complained-about card in mid-ladder. But here is what most players miss: **Mega Knight is actually a negative elixir trade machine if you know how to counter him properly.**
 
 At tournament standard, Mega Knight costs 7 elixir. His jump deals 480 damage, his regular attack deals 267, and he has 4800 HP. For 7 elixir, you get a tank with splash. But his attack speed is slow (1.7 seconds) and his single-target DPS is only 157 ? lower than a Musketeer (218 DPS at 4 elixir).
@@ -86,6 +89,9 @@ If your opponent places Mega Knight behind their King Tower (a 7-elixir commitme
 - Bandit dashes through your counter if placed wrong ? stagger placements
 
 ## Common Mistakes
+
+![Clash Royale gameplay](https://images.unsplash.com/photo-1552820728-8b83bb6b2cf7?w=800&h=400&fit=crop)
+
 
 1. **Placing troops before spawn damage** ? MK's 480 spawn kills all glass cannons
 2. **Defending at the bridge** ? MK gets tower support from their side

@@ -13,6 +13,9 @@ keywords:
 
 ## Why Elixir Management Wins Games
 
+![Clash Royale strategy](https://images.unsplash.com/photo-1552820728-8b83bb6b2cf7?w=800&h=400&fit=crop)
+
+
 At tournament standard, both players generate 1 elixir every 2.8 seconds in single elixir and 1 elixir every 1.4 seconds in double elixir. The match lasts 5 minutes (3 minutes normal + 2 minutes overtime maximum). That is roughly 178 elixir per player in a full match.
 
 Elixir management is the art of spending your 178 elixir more efficiently than your opponent spends theirs. Every 1-elixir advantage you accumulate can convert to 100-300 tower damage. A cumulative 10-elixir advantage in a match typically translates to a tower.
@@ -116,6 +119,9 @@ You have 6+ elixir more than your opponent. They are functionally at zero. Play 
 - Protect your building at all costs
 
 ## Pro-Level Tips
+
+![Clash Royale gameplay](https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=400&fit=crop)
+
 
 1. **Count out loud when practicing.** Say "they're at 6... 7... they played a 4-cost... now 3..." Verbalizing forces your brain to track.
 

@@ -13,6 +13,9 @@ keywords:
 
 ## What Is PEKKA Bridge Spam?
 
+![Clash Royale strategy](https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800&h=400&fit=crop)
+
+
 PEKKA Bridge Spam is a hybrid archetype that combines heavy defense with relentless bridge pressure. You defend with PEKKA (7 elixir) and immediately convert the surviving PEKKA into a counter-push with cheap bridge-spam cards.
 
 The standard 2026 PEKKA Bridge Spam:
@@ -103,6 +106,9 @@ PEKKA in front of X-Bow blocks all shots for 20+ seconds. Battle Ram smashes X-B
 **PEKKA Evolution (speculative):** As of 2026, PEKKA does not have an evolution. If one is released, it will likely be game-changing for this archetype.
 
 ## Pro Tips
+
+![Clash Royale gameplay](https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=400&fit=crop)
+
 
 1. **Never lead with PEKKA.** PEKKA behind King Tower is a signal to your opponent: "Rush the other lane for free tower damage." Only PEKKA reactively.
 

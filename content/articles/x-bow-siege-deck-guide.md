@@ -13,6 +13,9 @@ keywords:
 
 ## Why X-Bow Is the Hardest Archetype
 
+![Clash Royale strategy](https://images.unsplash.com/photo-1549036615-8494e9b3b2d4?w=800&h=400&fit=crop)
+
+
 X-Bow Siege is the most punishing deck in Clash Royale. When played perfectly, it is unbeatable. When you make one mistake, you lose. There is no tank to absorb damage. There is no cheap cycle to recover. There is only your X-Bow, your Tesla, and your skill.
 
 The 3.0 X-Bow cycle:
@@ -97,6 +100,9 @@ Tesla + Archers kills their push. Fireball their Balloon. X-Bow in the center sn
 This combo kills: Musketeer, Wizard, Electro Wizard, Ice Wizard, Magic Archer, Dart Goblin, Princess, Bomber, Archers. For 2 elixir. Master this and your defensive efficiency triples.
 
 ## Pro Tips from X-Bow Masters
+
+![Clash Royale gameplay](https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=400&fit=crop)
+
 
 1. **Never X-Bow at 10 elixir.** Deploy at 9.5 and regenerate the last 0.5 during the deploy animation. At 10 elixir, X-Bow immediately and they have their counter ready.
 

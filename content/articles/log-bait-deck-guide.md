@@ -13,6 +13,9 @@ keywords:
 
 ## What Is Log Bait?
 
+![Clash Royale strategy](https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=400&fit=crop)
+
+
 Log Bait is one of the oldest and most reliable archetypes in Clash Royale. The concept is simple: run multiple cards that demand a specific spell counter, forcing your opponent to choose which threat to answer. Their Log cannot stop both your Goblin Barrel AND your Princess AND your Dart Goblin.
 
 The classic 2026 Log Bait deck:
@@ -91,6 +94,9 @@ In double elixir, if your opponent tower is below 800 HP, switch to Rocket cycli
 **Dart Goblin sniping:** Place Dart Goblin 6 tiles from a troop. His 6.5 range out-ranges everything except Princess and Magic Archer. He chips down tanks while your Inferno Tower ramps up.
 
 ## Pro Tips
+
+![Clash Royale gameplay](https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800&h=400&fit=crop)
+
 
 1. **Count their spell cycle.** If you know their Log is 2 cards away, you can Barrel safely. After they use Log, count in your head: 1-2-3-4, Log is back.
 
