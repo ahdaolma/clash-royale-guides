@@ -1,6 +1,8 @@
 ﻿import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllSlugs, getAllArticles } from '@/lib/articles';
+import BackToTop from '@/components/BackToTop';
+import ReadingProgress from '@/components/ReadingProgress';
 import AdSlot from '@/components/AdSlot';
 import { remark } from 'remark';
 import html from 'remark-html';
@@ -52,9 +54,21 @@ export default async function ArticlePage({ params }: Props) {
     publisher: { '@type': 'Organization', name: 'Clash Royale Guides' },
   };
 
-  return (
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://clash-royale-guides.vercel.app' },
+      { '@type': 'ListItem', position: 2, name: article.category, item: 'https://clash-royale-guides.vercel.app/category/' + article.category.toLowerCase().replace(/\s+/g, '-') },
+      { '@type': 'ListItem', position: 3, name: article.title },
+    ],
+  };
+
+  return (<ReadingProgress />
+    
     <>
       <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       
       <div className="max-w-6xl mx-auto px-4 py-8">
         <div className="flex gap-8">
@@ -136,6 +150,7 @@ export default async function ArticlePage({ params }: Props) {
               </section>
             )}
           </article>
+      <BackToTop />
         </div>
       </div>
     </>
