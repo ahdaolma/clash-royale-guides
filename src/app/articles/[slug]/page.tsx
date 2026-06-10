@@ -1,13 +1,11 @@
-import { Metadata } from 'next';
+﻿import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllSlugs, getAllArticles } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-interface Props {
-  params: Promise<{ slug: string }>;
-}
+interface Props { params: Promise<{ slug: string }>; }
 
 export async function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
@@ -17,19 +15,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const article = getArticleBySlug(slug);
   if (!article) return {};
-
   return {
-    title: article.title,
-    description: article.excerpt,
-    keywords: article.keywords,
-    openGraph: {
-      title: article.title,
-      description: article.excerpt,
-      type: 'article',
-      publishedTime: article.date,
-    },
+    title: article.title, description: article.excerpt, keywords: article.keywords,
+    openGraph: { title: article.title, description: article.excerpt, type: 'article', publishedTime: article.date },
     alternates: { canonical: '/articles/' + slug },
   };
+}
+
+// Extract headings from HTML for TOC
+function extractHeadings(html: string) {
+  const matches = [...html.matchAll(/<h(\d)[^>]*>(.*?)<\/h\1>/gi)];
+  return matches.map(m => ({ level: parseInt(m[1]), text: m[2].replace(/<[^>]*>/g, ''), id: m[2].replace(/<[^>]*>/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') }));
 }
 
 export default async function ArticlePage({ params }: Props) {
@@ -39,81 +35,109 @@ export default async function ArticlePage({ params }: Props) {
 
   const processed = await remark().use(html).process(article.content);
   const contentHtml = processed.toString();
+  const headings = extractHeadings(contentHtml);
 
   const paragraphs = contentHtml.split('</p>');
-  const midpoint = Math.floor(paragraphs.length / 2);
-  const firstHalf = paragraphs.slice(0, midpoint).join('</p>') + '</p>';
-  const secondHalf = paragraphs.slice(midpoint).join('</p>');
+  const mid = Math.floor(paragraphs.length / 2);
+  const firstHalf = paragraphs.slice(0, mid).join('</p>') + '</p>';
+  const secondHalf = paragraphs.slice(mid).join('</p>');
 
-  const related = getAllArticles()
-    .filter((a) => a.category === article.category && a.slug !== slug)
-    .slice(0, 3);
+  const related = getAllArticles().filter(a => a.category === article.category && a.slug !== slug).slice(0, 4);
 
   const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: article.title,
-    description: article.excerpt,
+    '@context': 'https://schema.org', '@type': 'Article',
+    headline: article.title, description: article.excerpt,
     datePublished: article.date,
-    author: { '@type': 'Organization', name: 'HomeOrg Guides' },
-    publisher: { '@type': 'Organization', name: 'HomeOrg Guides' },
+    author: { '@type': 'Organization', name: 'Clash Royale Guides' },
+    publisher: { '@type': 'Organization', name: 'Clash Royale Guides' },
   };
 
   return (
     <>
-      <script
-        type='application/ld+json'
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-      <article className='max-w-3xl mx-auto px-4 py-8'>
-        <nav className='text-sm text-gray-500 mb-6'>
-          <a href='/' className='hover:text-blue-600'>Home</a>
-          <span className='mx-2'>/</span>
-          <a href={'/category/' + article.category.toLowerCase().replace(/\s+/g, '-')} className='hover:text-blue-600'>
-            {article.category}
-          </a>
-          <span className='mx-2'>/</span>
-          <span className='text-gray-800'>{article.title}</span>
-        </nav>
-
-        <header className='mb-8'>
-          <span className='text-xs text-blue-600 font-semibold uppercase tracking-wider'>
-            {article.category}
-          </span>
-          <h1 className='text-3xl md:text-4xl font-bold mt-2 mb-4'>{article.title}</h1>
-          <div className='flex items-center gap-3 text-sm text-gray-500'>
-            <time dateTime={article.date}>{article.date}</time>
-            <span>·</span>
-            <span>{article.readTime} min read</span>
-          </div>
-        </header>
-
-        <div className='prose prose-lg max-w-none' dangerouslySetInnerHTML={{ __html: firstHalf }} />
-
-        <AdSlot id={'article-mid-' + slug} />
-
-        <div className='prose prose-lg max-w-none' dangerouslySetInnerHTML={{ __html: secondHalf }} />
-
-        <AdSlot id={'article-bottom-' + slug} />
-
-        {related.length > 0 && (
-          <section className='mt-12 border-t pt-8'>
-            <h2 className='text-xl font-bold mb-4'>Related Articles</h2>
-            <div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
-              {related.map((r) => (
-                <a
-                  key={r.slug}
-                  href={'/articles/' + r.slug}
-                  className='bg-white border rounded-lg p-4 hover:border-blue-600 hover:shadow-sm transition'
-                >
-                  <h3 className='font-semibold text-sm line-clamp-2'>{r.title}</h3>
-                  <p className='text-xs text-gray-500 mt-1'>{r.date}</p>
-                </a>
-              ))}
+      <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      
+      <div className="max-w-6xl mx-auto px-4 py-8">
+        <div className="flex gap-8">
+          {/* Sidebar - Table of Contents */}
+          <aside className="hidden lg:block w-64 flex-shrink-0">
+            <div className="sticky top-24">
+              <div className="toc">
+                <h4 className="text-sm font-bold text-purple-300 uppercase tracking-wider mb-4">📑 On This Page</h4>
+                <nav>
+                  {headings.filter(h => h.level <= 2).map((h, i) => (
+                    <a key={i} href={'#' + h.id} style={{ paddingLeft: (h.level - 1) * 12 + 12 + 'px' }}>
+                      {h.text}
+                    </a>
+                  ))}
+                </nav>
+              </div>
             </div>
-          </section>
-        )}
-      </article>
+          </aside>
+
+          {/* Main content */}
+          <article className="flex-1 min-w-0">
+            {/* Breadcrumb */}
+            <nav className="flex items-center gap-2 text-sm text-gray-500 mb-6 breadcrumb">
+              <a href="/">Home</a><span>/</span>
+              <a href={'/category/' + article.category.toLowerCase().replace(/\s+/g, '-')}>{article.category}</a>
+            </nav>
+
+            {/* Header */}
+            <header className="mb-10">
+              <span className="tag mb-4">{article.category}</span>
+              <h1 className="text-4xl md:text-5xl font-black mt-4 mb-6 leading-tight" style={{ WebkitTextFillColor: 'initial' }}>
+                {article.title}
+              </h1>
+              <div className="flex items-center gap-4 text-sm text-gray-500">
+                <span>📅 {article.date}</span>
+                <span>⏱ {article.readTime} min read</span>
+              </div>
+            </header>
+
+            {/* Content */}
+            <div className="prose prose-invert prose-lg max-w-none
+              prose-headings:text-purple-200
+              prose-p:text-gray-300 prose-p:leading-relaxed
+              prose-strong:text-purple-200
+              prose-a:text-purple-400 prose-a:no-underline hover:prose-a:text-purple-300
+              prose-img:rounded-xl prose-img:shadow-lg
+              prose-li:text-gray-300
+              prose-table:border-collapse" 
+              dangerouslySetInnerHTML={{ __html: firstHalf }} 
+            />
+
+            <AdSlot id={'article-mid-' + slug} />
+
+            <div className="prose prose-invert prose-lg max-w-none
+              prose-headings:text-purple-200
+              prose-p:text-gray-300 prose-p:leading-relaxed
+              prose-strong:text-purple-200
+              prose-a:text-purple-400
+              prose-img:rounded-xl prose-img:shadow-lg
+              prose-li:text-gray-300" 
+              dangerouslySetInnerHTML={{ __html: secondHalf }} 
+            />
+
+            <AdSlot id={'article-bottom-' + slug} />
+
+            {/* Related Articles */}
+            {related.length > 0 && (
+              <section className="mt-16 pt-10 border-t border-purple-900/30">
+                <h2 className="text-2xl font-bold text-purple-200 mb-6">📚 Related Guides</h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {related.map(r => (
+                    <a key={r.slug} href={'/articles/' + r.slug} className="related-card group">
+                      <span className="tag text-xs">{r.category}</span>
+                      <h3 className="font-semibold text-gray-200 mt-2 mb-1 group-hover:text-purple-300 transition-colors line-clamp-2">{r.title}</h3>
+                      <p className="text-xs text-gray-600">⏱ {r.readTime} min · 📅 {r.date}</p>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )}
+          </article>
+        </div>
+      </div>
     </>
   );
 }
