@@ -1,6 +1,7 @@
-﻿import { getAllArticles, getCategories } from '@/lib/articles';
+import { getAllArticles, getCategories } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
 import ArticleCard from '@/components/ArticleCard';
+import PopularArticles from '@/components/PopularArticles';
 
 export default async function HomePage() {
   const articles = getAllArticles();
@@ -71,6 +72,8 @@ export default async function HomePage() {
         </section>
 
         <AdSlot id='home-middle' />
+
+        <PopularArticles />
 
         {/* Latest Guides */}
         <section id='latest' className='my-16'>

@@ -4,6 +4,7 @@ import { getArticleBySlug, getAllSlugs, getAllArticles } from '@/lib/articles';
 import BackToTop from '@/components/BackToTop';
 import ReadingProgress from '@/components/ReadingProgress';
 import AdSlot from '@/components/AdSlot';
+import MobileTOC from '@/components/MobileTOC';
 import { remark } from 'remark';
 import html from 'remark-html';
 
@@ -36,8 +37,27 @@ export default async function ArticlePage({ params }: Props) {
   if (!article) notFound();
 
   const processed = await remark().use(html).process(article.content);
-  const contentHtml = processed.toString();
+  const contentHtml = processed.toString().replace(/<img /g, '<img loading="lazy" decoding="async" ');
   const headings = extractHeadings(contentHtml);
+
+  // Extract FAQ items for structured data (max 5 Q&A pairs)
+  const faqItems: { question: string; answer: string }[] = [];
+  const faqRegex = /<h[23][^>]*>(.*?)<\/h[23]>\s*<p>(.*?)<\/p>/gi;
+  let faqMatch: RegExpExecArray | null;
+  while ((faqMatch = faqRegex.exec(contentHtml)) !== null && faqItems.length < 5) {
+    const q = faqMatch[1].replace(/<[^>]*>/g, '').trim();
+    const a = faqMatch[2].replace(/<[^>]*>/g, '').trim();
+    if (q.length > 10 && a.length > 30) faqItems.push({ question: q, answer: a });
+  }
+  const faqLd = faqItems.length >= 2 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: { '@type': 'Answer', text: item.answer },
+    })),
+  } : null;
 
   const paragraphs = contentHtml.split('</p>');
   const mid = Math.floor(paragraphs.length / 2);
@@ -68,6 +88,7 @@ export default async function ArticlePage({ params }: Props) {
       <ReadingProgress />
       <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      {faqLd && <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />}
       
       <div className="max-w-6xl mx-auto px-4 py-8">
         <div className="flex gap-8">
@@ -89,6 +110,9 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Main content */}
           <article className="flex-1 min-w-0">
+            {/* Mobile TOC */}
+            <MobileTOC headings={headings} />
+
             {/* Breadcrumb */}
             <nav className="flex items-center gap-2 text-sm text-gray-500 mb-6 breadcrumb">
               <a href="/">Home</a><span>/</span>
@@ -148,6 +172,27 @@ export default async function ArticlePage({ params }: Props) {
                 </div>
               </section>
             )}
+
+            {/* Keyword-based internal links */}
+            {(() => {
+              const kw = article.keywords || [];
+              const seeAlso = getAllArticles().filter((a: any) => {
+                if (a.slug === slug) return false;
+                const akw = a.keywords || [];
+                return kw.some((k: string) => akw.includes(k));
+              }).slice(0, 4);
+              if (seeAlso.length === 0) return null;
+              return (
+                <section className="mt-12 pt-8 border-t border-purple-900/30">
+                  <h2 className="text-xl font-bold text-purple-200 mb-4">🔗 See Also</h2>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                    {seeAlso.map((a: any) => (
+                      <a key={a.slug} href={'/articles/' + a.slug} className="text-sm text-purple-400 hover:text-purple-200 transition-colors">{a.title}</a>
+                    ))}
+                  </div>
+                </section>
+              );
+            })()}
           </article>
       <BackToTop />
         </div>
