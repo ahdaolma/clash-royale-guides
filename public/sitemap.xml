@@ -1,641 +1,641 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clash-royale-guides.vercel.app</loc>
+    <loc>https://example.com</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles</loc>
+    <loc>https://example.com/articles</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/category/"decks"</loc>
+    <loc>https://example.com/category/"decks"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/category/"arenas"</loc>
+    <loc>https://example.com/category/"arenas"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/category/"arena-decks"</loc>
+    <loc>https://example.com/category/"arena-decks"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/category/"cards"</loc>
+    <loc>https://example.com/category/"cards"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/category/"strategy"</loc>
+    <loc>https://example.com/category/"strategy"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/category/"counters"</loc>
+    <loc>https://example.com/category/"counters"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/battle-ram-bridge-spam-guide</loc>
+    <loc>https://example.com/articles/battle-ram-bridge-spam-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/battle-ram-bridge-spam-tips</loc>
+    <loc>https://example.com/articles/battle-ram-bridge-spam-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-1-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-1-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-1-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-1-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-10-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-10-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-10-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-10-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-11-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-11-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-11-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-11-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-12-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-12-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-12-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-12-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-2-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-2-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-2-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-2-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-3-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-3-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-3-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-3-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-4-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-4-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-4-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-4-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-5-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-5-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-5-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-5-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-6-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-6-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-6-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-6-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-7-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-7-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-7-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-7-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-8-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-8-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-8-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-8-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-9-guide</loc>
+    <loc>https://example.com/articles/best-deck-arena-9-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-deck-arena-9-tips</loc>
+    <loc>https://example.com/articles/best-deck-arena-9-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-epic-cards-guide</loc>
+    <loc>https://example.com/articles/best-epic-cards-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-epic-cards-tips</loc>
+    <loc>https://example.com/articles/best-epic-cards-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-legendary-cards-guide</loc>
+    <loc>https://example.com/articles/best-legendary-cards-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/best-legendary-cards-tips</loc>
+    <loc>https://example.com/articles/best-legendary-cards-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/bomber-evolution-guide</loc>
+    <loc>https://example.com/articles/bomber-evolution-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/bomber-evolution-tips</loc>
+    <loc>https://example.com/articles/bomber-evolution-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/card-rotation-strategy-guide</loc>
+    <loc>https://example.com/articles/card-rotation-strategy-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/card-rotation-strategy-tips</loc>
+    <loc>https://example.com/articles/card-rotation-strategy-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/champion-cards-guide-guide</loc>
+    <loc>https://example.com/articles/champion-cards-guide-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/champion-cards-guide-tips</loc>
+    <loc>https://example.com/articles/champion-cards-guide-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-balloon-guide</loc>
+    <loc>https://example.com/articles/counter-balloon-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-balloon-tips</loc>
+    <loc>https://example.com/articles/counter-balloon-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-golem-guide</loc>
+    <loc>https://example.com/articles/counter-golem-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-golem-tips</loc>
+    <loc>https://example.com/articles/counter-golem-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-hog-rider-guide</loc>
+    <loc>https://example.com/articles/counter-hog-rider-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-hog-rider-tips</loc>
+    <loc>https://example.com/articles/counter-hog-rider-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-lava-hound-guide</loc>
+    <loc>https://example.com/articles/counter-lava-hound-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-lava-hound-tips</loc>
+    <loc>https://example.com/articles/counter-lava-hound-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-mega-knight-guide</loc>
+    <loc>https://example.com/articles/counter-mega-knight-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-mega-knight-tips</loc>
+    <loc>https://example.com/articles/counter-mega-knight-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-pekka-guide</loc>
+    <loc>https://example.com/articles/counter-pekka-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-pekka-tips</loc>
+    <loc>https://example.com/articles/counter-pekka-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-sparky-guide</loc>
+    <loc>https://example.com/articles/counter-sparky-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-sparky-tips</loc>
+    <loc>https://example.com/articles/counter-sparky-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-x-bow-guide</loc>
+    <loc>https://example.com/articles/counter-x-bow-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/counter-x-bow-tips</loc>
+    <loc>https://example.com/articles/counter-x-bow-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/defensive-building-placement-guide</loc>
+    <loc>https://example.com/articles/defensive-building-placement-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/defensive-building-placement-tips</loc>
+    <loc>https://example.com/articles/defensive-building-placement-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/egolem-battle-healer-guide</loc>
+    <loc>https://example.com/articles/egolem-battle-healer-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/egolem-battle-healer-tips</loc>
+    <loc>https://example.com/articles/egolem-battle-healer-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/elixir-management-guide-guide</loc>
+    <loc>https://example.com/articles/elixir-management-guide-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/elixir-management-guide-tips</loc>
+    <loc>https://example.com/articles/elixir-management-guide-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/evolution-cards-ranked-guide</loc>
+    <loc>https://example.com/articles/evolution-cards-ranked-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/evolution-cards-ranked-tips</loc>
+    <loc>https://example.com/articles/evolution-cards-ranked-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/firecracker-evolution-guide</loc>
+    <loc>https://example.com/articles/firecracker-evolution-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/firecracker-evolution-tips</loc>
+    <loc>https://example.com/articles/firecracker-evolution-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/giant-double-prince-guide</loc>
+    <loc>https://example.com/articles/giant-double-prince-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/giant-double-prince-tips</loc>
+    <loc>https://example.com/articles/giant-double-prince-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/goblin-giant-sparky-guide</loc>
+    <loc>https://example.com/articles/goblin-giant-sparky-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/goblin-giant-sparky-tips</loc>
+    <loc>https://example.com/articles/goblin-giant-sparky-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/golem-beatdown-deck-guide</loc>
+    <loc>https://example.com/articles/golem-beatdown-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/golem-beatdown-deck-tips</loc>
+    <loc>https://example.com/articles/golem-beatdown-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/graveyard-freeze-deck-guide</loc>
+    <loc>https://example.com/articles/graveyard-freeze-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/graveyard-freeze-deck-tips</loc>
+    <loc>https://example.com/articles/graveyard-freeze-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/hog-cycle-deck-guide</loc>
+    <loc>https://example.com/articles/hog-cycle-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/hog-cycle-deck-tips</loc>
+    <loc>https://example.com/articles/hog-cycle-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/knight-evolution-guide</loc>
+    <loc>https://example.com/articles/knight-evolution-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/knight-evolution-tips</loc>
+    <loc>https://example.com/articles/knight-evolution-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/lavaloon-deck-guide</loc>
+    <loc>https://example.com/articles/lavaloon-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/lavaloon-deck-tips</loc>
+    <loc>https://example.com/articles/lavaloon-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/log-bait-deck-guide</loc>
+    <loc>https://example.com/articles/log-bait-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/log-bait-deck-tips</loc>
+    <loc>https://example.com/articles/log-bait-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/miner-control-deck-guide</loc>
+    <loc>https://example.com/articles/miner-control-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/miner-control-deck-tips</loc>
+    <loc>https://example.com/articles/miner-control-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/mortar-bait-deck-guide</loc>
+    <loc>https://example.com/articles/mortar-bait-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/mortar-bait-deck-tips</loc>
+    <loc>https://example.com/articles/mortar-bait-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/pekka-bridge-spam-guide</loc>
+    <loc>https://example.com/articles/pekka-bridge-spam-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/pekka-bridge-spam-tips</loc>
+    <loc>https://example.com/articles/pekka-bridge-spam-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/positive-elixir-trades-guide</loc>
+    <loc>https://example.com/articles/positive-elixir-trades-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/positive-elixir-trades-tips</loc>
+    <loc>https://example.com/articles/positive-elixir-trades-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/royal-giant-deck-guide</loc>
+    <loc>https://example.com/articles/royal-giant-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/royal-giant-deck-tips</loc>
+    <loc>https://example.com/articles/royal-giant-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/royal-recruits-evolution-guide</loc>
+    <loc>https://example.com/articles/royal-recruits-evolution-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/royal-recruits-evolution-tips</loc>
+    <loc>https://example.com/articles/royal-recruits-evolution-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/skeleton-barrel-bait-guide</loc>
+    <loc>https://example.com/articles/skeleton-barrel-bait-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/skeleton-barrel-bait-tips</loc>
+    <loc>https://example.com/articles/skeleton-barrel-bait-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/skeletons-evolution-guide</loc>
+    <loc>https://example.com/articles/skeletons-evolution-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/skeletons-evolution-tips</loc>
+    <loc>https://example.com/articles/skeletons-evolution-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/tesla-evolution-guide</loc>
+    <loc>https://example.com/articles/tesla-evolution-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/tesla-evolution-tips</loc>
+    <loc>https://example.com/articles/tesla-evolution-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/three-musketeers-deck-guide</loc>
+    <loc>https://example.com/articles/three-musketeers-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/three-musketeers-deck-tips</loc>
+    <loc>https://example.com/articles/three-musketeers-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/x-bow-siege-deck-guide</loc>
+    <loc>https://example.com/articles/x-bow-siege-deck-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://clash-royale-guides.vercel.app/articles/x-bow-siege-deck-tips</loc>
+    <loc>https://example.com/articles/x-bow-siege-deck-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

@@ -1,9 +1,10 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import "./globals.css";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://clash-royale-guides.vercel.app"),`n  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
+  metadataBase: new URL("https://clash-royale-guides.vercel.app"),
+  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
   title: { default: "Clash Royale Guides | Best Decks & Strategy 2026", template: "%s | Clash Royale Guides" },
   description: "Expert Clash Royale strategy guides, best decks for every arena, card counters, and pro tips to win more battles.",
   keywords: ["Clash Royale","best decks","card guide","strategy","arena decks","counter guide","Clash Royale tips"],
