@@ -15,8 +15,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cat = getCategories().find((c) => c.slug === slug);
   if (!cat) return {};
   return {
-    title: `${cat.name} Organization Guides | HomeOrg Guides`,
-    description: `Expert ${cat.name.toLowerCase()} organization tips, storage ideas, and decluttering guides.`,
+    title: `${cat.name} Guides | Clash Royale Guides`,
+    description: `Expert ${cat.name.toLowerCase()} guides, deck strategies, and tips for Clash Royale.`,
   };
 }
 
@@ -28,8 +28,8 @@ export default async function CategoryPage({ params }: Props) {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-2">{cat.icon} {cat.name} Organization</h1>
-      <p className="text-gray-600 mb-8">{articles.length} guides for {cat.name.toLowerCase()} organization.</p>
+      <h1 className="text-3xl font-extrabold text-purple-100 mb-2">{cat.icon} {cat.name}</h1>
+      <p className="text-gray-500 mb-8">{articles.length} guides in {cat.name.toLowerCase()}.</p>
       <AdSlot id={`category-${slug}-top`} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 my-8">
         {articles.map((article) => (
