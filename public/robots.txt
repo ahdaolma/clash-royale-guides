@@ -4,3 +4,5 @@ Disallow: /api/
 
 Sitemap: https://clash-royale-guides.vercel.app/sitemap.xml
 
+
+
