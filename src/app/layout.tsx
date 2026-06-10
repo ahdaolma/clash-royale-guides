@@ -1,5 +1,6 @@
 ﻿import type { Metadata } from "next";
 import "./globals.css";
+import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://clash-royale-guides.vercel.app"),
@@ -31,6 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/articles" className="nav-link">All Guides</a>
               <a href="/#categories" className="nav-link">Categories</a>
             </nav>
+            <SearchBar placeholder="Search card or deck..." className="w-48" />
           </div>
         </header>
         <main className="flex-1">{children}</main>
@@ -68,3 +70,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+
