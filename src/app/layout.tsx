@@ -3,7 +3,7 @@ import "./globals.css";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://clash-royale-guides.vercel.app"),
+  metadataBase: new URL("https://clash-royale-guides.vercel.app"),`n  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
   title: { default: "Clash Royale Guides | Best Decks & Strategy 2026", template: "%s | Clash Royale Guides" },
   description: "Expert Clash Royale strategy guides, best decks for every arena, card counters, and pro tips to win more battles.",
   keywords: ["Clash Royale","best decks","card guide","strategy","arena decks","counter guide","Clash Royale tips"],
@@ -14,7 +14,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-      <meta name="google-site-verification" content="Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6600381860016497" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
