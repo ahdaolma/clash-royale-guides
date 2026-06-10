@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Bomber Evolution
 
+![10 Tips to Master Bomber Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Lane Alignment Is Everything
 
 Bomber's bomb travels STRAIGHT forward. Place him in the same lane as the push. Center placement: bomb goes center, misses everything in side lanes. One tile of misalignment = 894 damage wasted.
@@ -53,3 +56,4 @@ Golem + Night Witch + Baby Dragon push. Bomber at 5-3 aligned. First hit: Golem.
 ### 10. Save Bomber Evo for Their Big Push
 
 Evo Bomber ready? Do NOT cycle him for chip. Save him. Their 16+ elixir Golem push is coming. Evo Bomber behind your King Tower, aligned with their lane. Throws through the entire push. 894 damage to everything. Regular Bomber kills only the Golem (298 damage, negligible). Evo Bomber wipes their support. The difference is the match.
+

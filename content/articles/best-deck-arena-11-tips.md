@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Arena 11 Tips to Master Electro Valley
 
+![10 Arena 11 Tips to Master Electro Valley](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. E-Giant Tornado: Pull Everything Into the Zap
 
 E-Giant at the tower. They drop Skeleton Army (15 skeletons). Tornado pulls all 15 into E-Giant. Each skeleton attacks once → 15 × 192 zap = 2,880 damage. All skeletons die in 2 seconds. Tower also takes 4-6 zaps (768-1,152 damage). Total: their defense dead + tower chipped for 1,000+. Cost: 8 (E-Giant) + 3 (Tornado) = 11 elixir. Their defense cost: 3 (Skeleton Army). But: tower takes 1,000 damage AND they have no elixir left. This is a winning trade.
@@ -54,3 +57,4 @@ In double elixir (1 elixir per 1.4 seconds), you can cycle E-Giant every 17 seco
 ### 10. P.E.K.K.A Is Your Hardest Counter — Know When to Switch
 
 P.E.K.K.A (7 elixir) kills E-Giant in 6 swings (678 × 6 = 4,068 > 3,600 E-Giant HP). E-Giant zaps P.E.K.K.A for 192 per swing — negligible against P.E.K.K.A's 3,760 HP. If your opponent runs P.E.K.K.A, stop cycling E-Giant. Switch to Sparky + Goblin Giant — Sparky one-shots P.E.K.K.A from behind Goblin Giant. Or switch to spell cycle: Lightning their tower and support troops, defend with E-Wiz and Zappies, win in overtime.
+

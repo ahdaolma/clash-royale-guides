@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Tesla Evolution
 
+![10 Tips to Master Tesla Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Shockwave Clears Skeleton Army Automatically
 
 Tesla surrounded by 15 skeletons. First shockwave at 3.3 seconds: 192 area damage, all 15 die. Zero tower damage. You did not need Zap or Log. Evo Tesla is self-sufficient against swarms.
@@ -53,3 +56,4 @@ RG at bridge: 6.5 range vs Tesla 6.0. RG shoots Tesla from outside Tesla range. 
 ### 10. Track Evo Cycle: Every 3rd Tesla
 
 2-cycle. Play regular Tesla → regular Tesla → Evo Tesla. In X-Bow decks (3.0 avg): Tesla every ~17 seconds. Evo every ~51 seconds. Plan your siege around Evo availability. Offensive X-Bow is much safer with Evo Tesla protecting it.
+

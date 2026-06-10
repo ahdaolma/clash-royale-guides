@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every Balloon Push
 
+![10 Tips to Counter Every Balloon Push](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Tornado to King Tower: The 3-Elixir Game-Winner
 
 First Balloon push of the match: Tornado it into King Tower. King activates. Every future Balloon takes 3 towers × 112 DPS = 336 DPS instead of 2 towers × 112 = 224. That is 50% more damage. Over 4 Balloon pushes: ~500 extra damage to each Balloon = 2,000 total bonus. All for 3 elixir. This is the #1 Balloon counter in the game.
@@ -53,3 +56,4 @@ Balloon's death bomb deals 798 area damage. Your Musketeer (656 HP) defending ne
 ### 10. Track Their Balloon Cycle
 
 Balloon costs 5 elixir. Most Balloon decks have 3.5-4.0 average elixir. Cycle time: 4 cards × 3.5 avg = 14 elixir = 39 seconds. Always know: do they have Balloon in hand? If they just played it and you killed it, you have 39 seconds of safety. In those 39 seconds, push aggressively. They cannot counter-push with Balloon. This is how you turn Balloon defense into offensive momentum.
+

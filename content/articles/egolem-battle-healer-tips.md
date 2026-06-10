@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Elixir Golem Battle Healer
 
+![10 Tips to Master Elixir Golem Battle Healer](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. You Give 4 Elixir — Make Sure You Deal 1,500+ Tower Damage
 
 E-Golem costs 3, gives opponent 4 elixir. Net: -1 to you. If your push deals 800 tower damage, you lost. If it deals 1,500+, you won the trade. Never play E-Golem without enough support to guarantee tower damage.
@@ -53,3 +56,4 @@ P.E.K.K.A kills E-Golem in 4 swings. Healer cannot out-heal 678 DPS. Against P.E
 ### 10. E-Golem at the Back Only — Never at the Bridge
 
 E-Golem at bridge: 3 elixir, zero support. Opponent kills it, gains 4 elixir. You are -1 and achieved nothing. Always E-Golem behind King Tower. Build support during the 12-second walk.
+

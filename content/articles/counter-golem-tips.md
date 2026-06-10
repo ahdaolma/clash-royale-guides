@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every Golem Push
 
+![10 Tips to Counter Every Golem Push](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Always Push Opposite Lane When Golem Is Played
 
 Golem (8 elixir) at the back. You have 10 elixir. They have 2. Immediately Hog Rider/Battle Ram/Wall Breakers opposite lane. This forces them to spend their 2 remaining elixir on defense — not on Golem support. The Golem reaches your tower with zero support. Any building kills it. The punish is not optional — it is mandatory.
@@ -53,3 +56,4 @@ Golem cycle time: 8 elixir. Average Golem deck: 4.0 avg. Cycle back: 4 cards × 
 ### 10. Elixir Collector = Free Punish Window
 
 If they play Elixir Collector (6 elixir), they have 4 elixir. Immediately push opposite lane with 6-8 elixir of troops. They cannot defend adequately. Take 800+ tower damage. Their Collector generates 8 elixir over 70 seconds — but they lost 800+ tower HP to get it. Net: you win the trade. Never let an Elixir Collector go unpunished.
+

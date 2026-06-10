@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Goblin Giant Sparky
 
+![10 Tips to Master Goblin Giant Sparky](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Bait Their Reset Before Sparky Enters Range
 
 Sequence: Dark Prince bridge (baits Zap) → Electro Wizard opposite lane (baits second reset) → GG + Sparky push. By the time Sparky enters tower range, their resets are all on cooldown. She fires freely. 3-step bait = guaranteed Sparky shot.
@@ -53,3 +56,4 @@ Inferno Tower on GG. E-Wiz dropped on Inferno Tower: spawn damage (192) + stun r
 ### 10. Double Elixir: Cycle GG + Sparky Faster
 
 Double elixir: GG (6) every 8.4 seconds. Sparky (6) every 8.4 seconds. Push every 17 seconds. 3 pushes in 51 seconds. Opponent's reset cards cycle every 25-35 seconds. Your third push faces zero reset cards. Guaranteed tower kill.
+

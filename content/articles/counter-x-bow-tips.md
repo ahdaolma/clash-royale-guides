@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every X-Bow Siege
 
+![10 Tips to Counter Every X-Bow Siege](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Rocket + 2 Tower Shots = Guaranteed Kill
 
 Rocket (1,232) + 2 tower shots (112 × 2 = 224) = 1,456 > X-Bow's 1,330 HP. Rocket the moment X-Bow appears. Tower gets 2 shots during Rocket's 1.1-second deploy. X-Bow dead. 6-for-6 even trade. Their win condition is gone for 34 seconds.
@@ -53,3 +56,4 @@ X-Bow player places Tesla 1 tile in front of X-Bow to protect it. Rocket aimed b
 ### 10. Out-Cycle With a Fast Deck
 
 2.6 Hog Cycle vs 3.0 X-Bow: you cycle your counter (Cannon 3 + Ice Spirit 1 + Skeletons 1 + Log 2 = 7 elixir = 20 seconds) faster than they cycle X-Bow (34 seconds). You always have your counter ready. After defending X-Bow, push with Hog. They must defend. They cannot cycle back to X-Bow while defending. You control the entire match tempo.
+

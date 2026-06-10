@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Royal Giant
 
+![10 Tips to Master Royal Giant](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Furnace + RG Same Lane, Always
 
 Furnace at 4-2 + RG at bridge, same lane. Fire Spirits chip tower (178 each). RG tanks. Opponent must choose: counter Fire Spirits (RG free hits) or counter RG (1,246 Furnace chip). They cannot afford both. Same-lane sync maximizes pressure.
@@ -53,3 +56,4 @@ Double elixir (1 elixir/1.4s): RG (6) every 8.4 seconds. Lightning (6) every 8.4
 ### 10. Never RG First Against Fast Cycle Decks
 
 Against 2.6 Hog: if you play RG first, they Hog opposite lane. You have 4 elixir to defend. Bad. Instead: cycle Archers or Ice Spirit first. See if they commit Hog. When Hog is out of cycle: play RG. Information > initiative against fast decks.
+

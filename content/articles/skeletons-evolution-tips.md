@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Skeletons Evolution
 
+![10 Tips to Master Skeletons Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Never Play Into Their Small Spell
 
 Zap (2) or Log (2) kills all Evo Skeletons. Your 1-elixir card AND your Evo cycle are wasted. Bait their spell with Goblin Barrel or other bait cards first. When their spell is down: Evo Skeletons are unanswerable.
@@ -53,3 +56,4 @@ Defensive Cannon + Evo Skeletons kill Hog Rider (4 elixir). Cannon dies. 6-7 ske
 ### 10. Track Your Evo Cycle: Every 3rd Skeletons
 
 2-cycle: regular → regular → Evo. In fast cycle decks: Skeletons every 8-12 seconds. Evo every 24-36 seconds. Save Evo for their tank. Regular Skeletons for cycle. The Evo must be available when their Golem/P.E.K.K.A/Hog is in play.
+

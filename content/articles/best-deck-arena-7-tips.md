@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Arena 7 Tips to Break Into Legendary Arena
 
+![10 Arena 7 Tips to Break Into Legendary Arena](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Royal Giant Outranges Cannon — Exploit This
 
 Cannon has 5.5 tile range. Royal Giant has 6.5 tile range and locks onto buildings. When you play RG at the bridge and they respond with Cannon, RG shoots the Cannon from 1 tile outside its range. The Cannon never fires. You spent 6 elixir, they spent 3, but your RG survives at 80% HP and proceeds to shoot their tower. This single interaction wins matches.
@@ -55,3 +58,4 @@ Executioner's axe deals 187×2 (forward + return) area damage. Tornado (3 elixir
 ### 10. Furnace Level Matters More Than Any Other Card
 
 Furnace at level 7 spawns level 7 Fire Spirits (178 HP). A level 8 tower deals 90 damage per shot. Two tower shots = 180 damage. Level 7 Fire Spirits die in 2 shots — they never reach the tower. Level 8 Fire Spirits (199 HP) survive 2 shots and reach the tower. This single level difference is the gap between 0 chip damage and 1,246 chip damage over a full Furnace. Upgrade Furnace before Royal Giant.
+

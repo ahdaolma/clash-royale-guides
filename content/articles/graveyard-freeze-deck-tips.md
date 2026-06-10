@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Graveyard Freeze
 
+![10 Tips to Master Graveyard Freeze](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Delay Freeze by 2 Seconds — Always
 
 Graveyard (second 0) → opponent drops defense (second 1-2) → Freeze (second 3). You freeze their defense AND the tower. If you Freeze at second 0, you freeze only the tower. The 2-second delay doubles Freeze's value.
@@ -53,3 +56,4 @@ Graveyard without a tank: tower targets skeletons. 16 skeletons die to tower in 
 ### 10. Track Their Small Spell for Poison Timing
 
 Poison covers Graveyard for 8 seconds, dealing 810 damage. If opponent has Log (drops it on skeletons), your Poison still ticks. If opponent has Arrows (kills skeletons), Poison still ticks. Poison damage is spell-proof. The only answer to Poison is... nothing. It guarantees tower damage regardless of their defense.
+

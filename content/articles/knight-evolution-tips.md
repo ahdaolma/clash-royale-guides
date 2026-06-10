@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Knight Evolution
 
+![10 Tips to Master Knight Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Shield Eats Prince Charge Completely
 
 Prince charge: 812 damage. Knight Evo shield: 1,193 HP. Shield absorbs entire charge. Knight body takes zero damage. Prince now at base DPS (348). Knight at full HP + 30% lifesteal. Knight wins with 20% HP remaining. 3 elixir beats 5. +2 trade.
@@ -53,3 +56,4 @@ Valkyrie: 1,654 HP, 211 splash DPS. Knight Evo: 3,181 HP, 192 DPS + 58 HP/s heal
 ### 10. Knight Evo in Double Elixir: Cycle Him Faster
 
 Double elixir: Knight cycles every 12-15 seconds. Evo Knight every 36-45 seconds — potentially 3 Evo Knights in a 2-minute double elixir period. Each Evo Knight stops a full push. 3 stopped pushes = match won.
+

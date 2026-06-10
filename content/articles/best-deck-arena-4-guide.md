@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Deck for Arena 4 (PEKKA's Playhouse): Proven Strategies for 2026"
 excerpt: "Master Arena 4 with decks that counter PEKKA, Hog Rider, and Wizard spam. Learn the Hog Cycle variant that top players use to climb through mid-ladder."
 category: "Arenas"
@@ -24,6 +24,9 @@ PEKKA's Playhouse (1100-1400 trophies) is the first arena where players hit a wa
 - **Freeze** (4 elixir) ? Surprise factor, pairs with Hog Rider or Balloon.
 
 ## Best Arena 4 Deck: Hog Freeze Cycle
+
+![Best Arena 4 Deck: Hog Freeze Cycle](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
 
 This deck combines the two strongest Arena 4 unlocks ? Hog Rider and Freeze ? into a deadly cycle deck:
 

@@ -13,6 +13,9 @@ keywords:
 
 ## 10 Tips to Master Giant Double Prince
 
+![10 Tips to Master Giant Double Prince](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Giant Behind King Tower, Never at the Bridge
 
 Giant at the back gives you 12 seconds of elixir generation (from 5 to ~9) before he crosses the bridge. Giant at the bridge: 5 elixir remaining, zero support. You lose. Always back corner.
@@ -52,3 +55,4 @@ Mega Minion (3 elixir) flies behind Giant. Balloon, Baby Dragon, Lava Hound appr
 ### 10. Cycle Ice Spirit Before Committing Giant
 
 Against fast decks: do not play Giant first. Cycle Ice Spirit (1) at the bridge. See their response. If they Hog Rider, you have 9 elixir to defend. If they cycle a card, you know their hand. Information is worth 1 elixir. Then play Giant when you know they cannot punish.
+

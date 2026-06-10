@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Three Musketeers
 
+![10 Tips to Master Three Musketeers](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Never Play 3M Without a Defensive Hand
 
 Before playing 3M (9 elixir), check: do you have Barbarians, Ice Golem, or Zap in hand? If no, do not play 3M. Opponent punishes with 6+ elixir push. You have 1 elixir. Tower dies. Defensive hand check = mandatory before every 3M play.
@@ -53,3 +56,4 @@ Stuck at 10 elixir, cannot play 3M (no defensive hand). Play Bandit at bridge (3
 ### 10. Double Elixir: 3M Becomes Spammable
 
 In double elixir (1 elixir/1.4 seconds), 3M (9 elixir) takes 12.6 seconds to generate. Cycle back: 4 cards × 4.5 avg = 18 elixir = 25 seconds. You can play 3M twice per minute in double elixir. Two split-lane pushes in 60 seconds. Most opponents cannot defend the second one.
+

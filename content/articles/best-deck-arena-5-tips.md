@@ -13,6 +13,9 @@ keywords:
 
 ## 10 Arena 5 Tips to Break Through Spell Valley
 
+![10 Arena 5 Tips to Break Through Spell Valley](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Poison, Don't Fireball, Against Witch
 
 A level 7 Poison deals 810 damage over 8 seconds. A level 7 Witch has 598 HP. Poison kills her AND every skeleton she spawns during those 8 seconds — roughly 12 skeletons. Fireball kills her immediately but she respawns skeletons in 5 seconds. Poison prevents 20 seconds of skeleton spawns for the same 4 elixir.
@@ -56,3 +59,4 @@ Freeze costs 4 elixir and does nothing by itself. New players Freeze a tower wit
 ### 10. Rage Is a Trap Below 2000 Trophies
 
 Rage boosts attack speed by 35%. But at Arena 5, troop placements are too random for Rage to get consistent value. It costs 2 elixir that is better spent on Ice Spirit (1 elixir, guaranteed value) or saved for defense. Rage becomes viable at Arena 10+ when you understand troop pathing.
+

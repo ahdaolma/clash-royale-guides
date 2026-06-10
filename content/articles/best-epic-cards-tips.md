@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Epic Cards
 
+![10 Tips for Epic Cards](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Goblin Barrel: Upgrade Until Goblins Survive Zap
 
 Goblins have 169 HP at level 9. Zap deals 192 at level 11. At +1 Barrel level: Goblins have 186 HP. Still die to Zap. At +2: 203 HP. SURVIVE Zap. Each Zap-surviving Goblin deals 113 DPS. 3 surviving Goblins = 339 DPS on tower. This single breakpoint adds 400+ damage per Barrel.
@@ -53,3 +56,4 @@ X-Bow costs 6 elixir. If their Giant/Knight/Valkyrie is in hand, they drop it on
 ### 10. Avoid Clone, Mirror, and Rage
 
 Clone (3): cloned troops die to any spell. Mirror (1+): pay extra for +1 level — rarely worth it. Rage (2): Lumberjack does it free on death. These 3 Epics have sub-47% win rates. Spend your gold elsewhere.
+

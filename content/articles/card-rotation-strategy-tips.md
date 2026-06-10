@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Card Rotation
 
+![10 Tips to Master Card Rotation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Track ONE Card First — Their Counter to Your Win Condition
 
 Do not try to track 8 cards. Track one: their Cannon (if you play Hog), their Log (if you play Barrel), their Rocket (if you play X-Bow). After they play it: count 4 of their cards. When the count hits 4, their counter is back. Start with one card. Master it before tracking two.
@@ -53,3 +56,4 @@ Double elixir: cycle times halve. A 39-second cycle becomes 19 seconds. Tracking
 ### 10. Practice With Replays
 
 Watch your own replays. Pause every 10 seconds. Ask: "What cards are in their hand right now?" Check the replay to see if you were right. Do this for 10 replays. Your cycle tracking accuracy will jump from ~40% to ~80%.
+

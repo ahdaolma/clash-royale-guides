@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Arena 12 Tips to Finally Reach Legendary Arena
 
+![10 Arena 12 Tips to Finally Reach Legendary Arena](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Wall Breakers + Miner: The 5-Elixir Tower Chip
 
 Miner (3) on tower → 0.5s delay → Wall Breakers (2) at bridge. Miner arrives first, tanks 1-2 tower shots. Wall Breakers connect. 440 tower damage for 5 elixir. Do this 6 times = tower destroyed. At 2.5 average elixir, you can cycle this combo every 12-15 seconds. The opponent MUST spend elixir to stop it. Whatever they spend, you out-cycle them.
@@ -54,3 +57,4 @@ Skeleton King's Champion ability costs 2 elixir and spawns 20 skeletons around h
 ### 10. Legendary Arena Check: Can You Answer All 4 Threats?
 
 Before entering Legendary Arena (4000+), verify your deck can answer: (1) Hog Rider at the bridge, (2) Balloon behind Lava Hound, (3) Graveyard on your tower, (4) Golem at the back. If you cannot answer all four with positive or even trades, your deck has a fatal hole. Common holes: no building (can't pull Hog/Balloon), no air DPS (LavaLoon destroys you), no splash (Graveyard accumulates), no tank killer (Golem walks to tower). Fix the hole before you queue.
+

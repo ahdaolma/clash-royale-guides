@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every Hog Rider Push
 
+![10 Tips to Counter Every Hog Rider Push](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Cannon at True Center, 4-3, Every Time
 
 Cannon placement: 4 tiles from river, EXACTLY centered between both towers. Not "roughly centered" — exactly centered. A Cannon 1 tile off-center misses the pull against a pig-pushed Hog. Result: Hog ignores Cannon, reaches tower, deals 318-636 damage. One tile = the difference between +1 trade and -318 HP.
@@ -53,3 +56,4 @@ Hog + Freeze (8 elixir) is common at 3,500+. If you have Cannon at 4-3 and Tower
 ### 10. Counter-Push After Defense
 
 After Cannon kills Hog (you: 3 elixir, Cannon at 60%, 8+ elixir), push immediately. Hog Cycle players expect you to reset. Breaking their cycle rhythm forces them to defend instead of cycling to next Hog. A Knight + Archers counter-push (6 elixir) after Hog defense forces 4-6 elixir of defense. They delay their next Hog by 10+ seconds. Over a match, 3 counter-pushes = 30 seconds less Hog pressure = 1-2 fewer Hog connections = 500+ tower damage prevented.
+

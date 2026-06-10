@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every Sparky Push
 
+![10 Tips to Counter Every Sparky Push](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Zap Late, Not Early
 
 Sparky charges for 4 seconds. Zap at second 0.5: charge restarts, but your troops have not reached her yet. Zap at second 3.0-3.5 (just before she fires): your troops are already attacking. Sparky reset. Troops get the full 4-second window to kill her. Late Zap = 3.5 extra seconds of troop damage. Early Zap = wasted reset.
@@ -53,3 +56,4 @@ Bats (2 elixir, 335 DPS) are flying — but Sparky's blast IS area damage that h
 ### 10. Always Have a Reset Card in Your Deck
 
 Zap (2 elixir) is in 68% of all decks above 4,000 trophies. If your deck has zero reset cards, Sparky farms you. Add at least one: Zap, Electro Wizard, Zappies, Electro Dragon, or Lightning. Electro Dragon is the budget option (5 elixir, flying, chain stuns 3 targets). Without a reset card, Sparky's win rate against you is 64%. With one: 38%.
+

@@ -13,6 +13,9 @@ keywords:
 
 ## 10 Arena 3 Tips That Push You to Arena 4
 
+![10 Arena 3 Tips That Push You to Arena 4](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. The Barbarian Surround Is Your Best Defense
 
 When a Giant, Giant Skeleton, or Prince crosses your bridge, do not place Barbarians in a line. Place them so they **surround the unit** — tapping slightly behind the tank centers the Barbarians around it. All five swing simultaneously for 690 total DPS. A level 6 Giant dies in under 4 seconds. The same Giant attacked by in-line Barbarians takes 7+ seconds because only 2-3 Barbarians can reach it.
@@ -59,3 +62,4 @@ When supporting a Giant push, place Valkyrie **behind** the Giant, not in front.
 ### 10. Know When to Give Up a Tower
 
 If your opponent commits 15+ elixir to one lane and your tower is below 500 HP, let it die. Defend the King Tower instead. Spending 8 elixir to save a 500 HP tower that dies anyway loses you the match. At Arena 3, one tower down is winnable 40% of the time. Two towers down is 5%.
+

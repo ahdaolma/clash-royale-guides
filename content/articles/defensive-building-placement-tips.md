@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Perfect Building Placement
 
+![10 Tips for Perfect Building Placement](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. True Center, 4-3, Always
 
 Cannon/Tesla/Inferno Tower at 4 tiles from river, 3 from tower, EXACTLY centered. Not "roughly" — exactly. One tile off-center = Hog Rider bypasses the pull. Check your placement against the arena's center line.
@@ -53,3 +56,4 @@ First 30 seconds of the match: do not place a building. Wait to see their win co
 ### 10. Cycle Your Building Back Before the Next Push
 
 After your Cannon kills their Hog, your Cannon has 10 seconds of life left. Cycle 1-2 cheap cards. Get Cannon back in hand. Their next Hog arrives in 17 seconds (2.6 cycle). Your Cannon is ready. Always have your building available when their win condition cycles back.
+

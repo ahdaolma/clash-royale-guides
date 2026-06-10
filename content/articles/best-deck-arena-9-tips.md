@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Arena 9 Tips to Master Jungle Arena
 
+![10 Arena 9 Tips to Master Jungle Arena](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Track Their Spell, Not Your Cycle
 
 Log Bait is not about your cards — it is about their Log. Count every card they play. After their Log, you have a 2-card window (about 5 seconds) where Goblin Barrel is unanswerable. Play Barrel as card #2 after their Log. If you wait for card #3, their Log is back and your Barrel does zero damage.
@@ -54,3 +57,4 @@ In overtime: Rocket costs 6 elixir, deals 1,232 damage. Tower HP: 2,534. You nee
 ### 10. Never Rocket a Full-HP Tower Before Overtime
 
 Rocketing a tower at 2,534 HP in regular time costs 6 elixir and leaves you vulnerable for 6 seconds. The opponent pushes while you have 4 elixir. You lose a tower. Rocket cycle only begins when: (a) tower is below 1,500 HP from chip damage, AND (b) you are in the last 60 seconds or overtime, AND (c) you have a defensive building in hand to survive the counter-push.
+

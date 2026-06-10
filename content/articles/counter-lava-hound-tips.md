@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every Lava Hound Push
 
+![10 Tips to Counter Every Lava Hound Push](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Kill Balloon First, Ignore the Hound
 
 Lava Hound: 53 DPS. Balloon: 1,248 bomb damage. Always target Balloon first. Mega Minion on Balloon. Musketeer on Balloon. Executioner on Balloon. Lava Hound can float above your tower dealing 53 DPS for 20 seconds — that is 1,060 damage, less than ONE Balloon bomb. Let the Hound live. Kill the Balloon.
@@ -53,3 +56,4 @@ If you do not have Inferno Tower or Executioner: Tesla (4) on Lava Hound + Arche
 ### 10. Track Their Lava Hound Cycle
 
 Lava Hound costs 7 elixir. Average deck: 3.8 elixir. Cycle back: 4 cards × 3.8 = 15.2 elixir = 42 seconds. After their Hound dies, you have 42 seconds of safety. Use these 42 seconds to: (a) push opposite lane aggressively, (b) cycle back to your Arrows + air defense, (c) chip their tower. When 42 seconds pass, have your defense ready. If you push during their Hound cycle window, they cannot defend and cycle to Hound simultaneously.
+

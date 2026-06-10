@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Always Winning the Elixir War
 
+![10 Tips for Always Winning the Elixir War](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. The +1 Rule: Every Play Must Be Positive or Even
 
 Before playing any card, ask: will this trade positively (my 3 for their 5), evenly (4 for 4), or negatively with compensation (6 for 4 but 800 tower damage)? If "none of the above," do not play it. This rule alone raises win rates by 10%.
@@ -53,3 +56,4 @@ Golem (8) = 2 remaining. You have 10. Any push you make is a massive positive tr
 ### 10. Dying Troops That Deal Tower Damage = Positive Trade
 
 Your wounded Mini P.E.K.K.A (4 elixir, 200 HP) walks toward their tower. Opponent ignores it (saving elixir). Mini P.E.K.K.A gets 1 swing = 678 tower damage. Your 4 elixir dealt 678 damage. Their tower HP is permanently reduced. Even if Mini P.E.K.K.A dies next second, the trade was positive.
+

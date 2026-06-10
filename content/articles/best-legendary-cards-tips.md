@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Legendary Cards
 
+![10 Tips for Legendary Cards](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Miner: Never the Same Spot Twice
 
 Miner placement: back → front → left → right → random. Opponent guesses right 25% of the time. You hit 75%. Predictable Miners get zero damage. One mixup pattern = consistent chip.
@@ -53,3 +56,4 @@ Legendary Trade Tokens: trade for Miner first. Miner is used in 20+ competitive 
 ### 10. Do Not Upgrade All Legendaries — Focus 3-4
 
 40,000 gold per Legendary upgrade. If you spread gold across 10 Legendaries: all level 10. If you focus 3-4: maxed. A maxed Miner (level 14) beats a level 12 tower. A level 10 Miner tickles it. Focus > breadth.
+

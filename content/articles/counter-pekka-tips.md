@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Counter Every P.E.K.K.A Push
 
+![10 Tips to Counter Every P.E.K.K.A Push](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Skeleton Army: 3 Elixir Kills 7 — Bait Zap First
 
 15 skeletons (1,005 DPS) kill P.E.K.K.A (3,760 HP) in 3.7 seconds. 3 elixir for 7. +4 trade. BUT: Zap kills them all. Bait their Zap with Goblin Barrel, Dart Goblin, or Princess first. Once Zap is down, Skeleton Army is a guaranteed P.E.K.K.A kill.
@@ -53,3 +56,4 @@ P.E.K.K.A at bridge + Dark Prince + Battle Ram (15 elixir). Do not panic. Infern
 ### 10. Punish Opposite Lane When They Play P.E.K.K.A at the Back
 
 P.E.K.K.A at the back (7 elixir, 3 remaining). Immediately Hog Rider + Ice Spirit (5 elixir) opposite lane. They have 3 elixir to defend. Hog gets 1-2 swings. You now have the elixir lead. P.E.K.K.A reaches your tower, you defend with Skeleton Army (3), and you are still +2 elixir overall. The punish makes P.E.K.K.A a negative play for them.
+

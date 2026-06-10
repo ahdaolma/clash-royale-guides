@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Miner Control
 
+![10 Tips to Master Miner Control](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Never Miner the Same Spot Twice
 
 Opponent predicts Miner location → drops Knight/Valkyrie → Miner deals zero damage. Rotate: back → front → left → right → back. Random but never consecutive same spot. Opponent has 4 tiles to cover. They guess right 25% of the time. You hit 75% of Miners.
@@ -53,3 +56,4 @@ Overtime Poison cycle: 1 Poison every 17.4 seconds. 810 damage per Poison. Tower
 ### 10. Know When to Stop Mining and Defend
 
 If you are up one tower and there is 60 seconds left, stop Mining. Defend only. Your tower lead wins. Mining risks giving them an elixir advantage if they predict correctly. Control decks win by protecting a lead, not extending it. Discipline wins more games than aggression.
+

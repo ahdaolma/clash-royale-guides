@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Skeleton Barrel Bait
 
+![10 Tips to Master Skeleton Barrel Bait](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. 5 Bait Cards vs 1 Log — You Win the Math
 
 Your deck: Skeleton Barrel, Goblin Barrel, Dart Goblin, Princess, Skeleton Army = 5 Log-vulnerable cards. Their deck: 1 Log (cycles every 39 seconds). You play bait every 5 seconds. 4 of 5 connect. Arithmetic wins.
@@ -53,3 +56,4 @@ Skeleton Barrel approaching. Predict their Skeleton Army/Goblin Gang. Fireball t
 ### 10. Dual Barrel in Double Elixir: Unstoppable
 
 Double elixir: Barrels every 5 seconds. Log every 20 seconds. 4 Barrels per Log. Opponent cannot keep up. Tower melts under constant Barrel pressure. This is the Dual Barrel win condition.
+

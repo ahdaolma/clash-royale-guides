@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Firecracker Evolution
 
+![10 Tips to Master Firecracker Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Fire Pools Stack — Aim Same Spot
 
 One fire pool: 80 DPS. Two stacks: 160 DPS. Three stacks: 240 DPS. When shooting a tank or tower, aim Firecracker at the SAME spot. Pools overlap. Opponent's troops stand in stacked pools and melt in 1-2 seconds. Stacking pools = tripled damage.
@@ -53,3 +56,4 @@ Hog at bridge. Firecracker behind. Defending Skeleton Army: dies to fire pool. D
 ### 10. Know When NOT to Play Her
 
 Against decks with Arrows AND Fireball: Firecracker dies quickly. Against air-heavy decks (LavaLoon): she targets ground, Balloon ignores her. Against fast cycle with Log: Log + tower shot = dead. Check their spells before committing her. Against double-small-spell decks, Firecracker value drops 50%.
+

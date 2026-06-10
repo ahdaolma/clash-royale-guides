@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Mortar Bait
 
+![10 Tips to Master Mortar Bait](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Mortar One Tile Behind Bridge, Never At
 
 Mortar at bridge: enemy Giant dropped on it = Mortar dead in 4 seconds. Mortar one tile back: Giant must walk around river. 2 extra seconds = 2 extra Mortar shots (440 damage). One tile = doubled Mortar value.
@@ -53,3 +56,4 @@ Their Log cycle: 4 cards in a 3.5 avg deck = 14 elixir = 39 seconds. After they 
 ### 10. Mortar Lock = Commit to Protecting It
 
 Once Mortar locks onto tower, your entire gameplan shifts to PROTECTING the Mortar. Knight in front. Goblin Gang on defense. Log their swarm. Fireball their support. Let your tower take some damage — Mortar is dealing 220 damage every 5 seconds to their tower. Over 30 seconds: 6 shots, 1,320 tower damage. Protecting Mortar > protecting tower.
+

@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Royal Recruits Evolution
 
+![10 Tips to Master Royal Recruits Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. 4,656 Total HP for 7 Elixir — Best HP Wall in the Game
 
 6 Recruits × (532 HP + 244 shield) = 4,656 effective HP. P.E.K.K.A has 3,760 for 7 elixir. Recruits have 24% more HP spread across 6 bodies. This is the tankiest card in the game per elixir.
@@ -53,3 +56,4 @@ RG at bridge (6 elixir). Recruits Evo: 3 in RG's lane surround him. Shields abso
 ### 10. Track Evo Cycle: Every 3rd Recruits Play
 
 2-cycle. 7 elixir card in a 3.9 avg deck. Cycle time: ~40 seconds per Recruits play. Evo: every ~120 seconds (2 minutes). You get 1-2 Evo Recruits per match. Make them count — play them when they have no Fireball in cycle.
+

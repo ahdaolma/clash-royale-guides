@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Master Champion Cards
 
+![10 Tips to Master Champion Cards](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Skeleton King: Always Use Ability Defensively
 
 Never summon 20 skeletons at the bridge (they die to Log). Summon them when their push crosses your bridge. 20 skeletons surround and shred their push. 12+ survive. Now they walk to opponent's tower. 2-elixir ability = 6+ elixir value.
@@ -53,3 +56,4 @@ Archer Queen's invisibility: immune to Fireball, Rocket, Lightning. Monk's refle
 ### 10. Save Ability for High-Impact Moments
 
 Skeleton King ability costs 2 elixir. Do not use it to clear a lone Musketeer (use regular attack). Save it for the Golem + Night Witch push. Ability value scales with the size of the enemy push. The bigger their push, the more value your ability generates.
+

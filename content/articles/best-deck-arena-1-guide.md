@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Deck for Arena 1 (Goblin Stadium): Win Every Match in 2026"
 excerpt: "Complete Arena 1 guide with best decks using only Training Camp and Goblin Stadium cards. Learn the Giant beatdown strategy that carries you to Arena 4."
 category: "Arenas"
@@ -23,6 +23,9 @@ Arena 1 is where you take your first real steps in Clash Royale. You have access
 The key insight for Arena 1: your opponents do not have buildings (no Cannon, no Tesla, no Inferno Tower). This means tanks like Giant are extremely strong. They also lack most spells beyond Arrows and Fireball.
 
 ## Best Arena 1 Deck: Giant Beatdown
+
+![Best Arena 1 Deck: Giant Beatdown](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
 
 This deck uses only Arena 1 cards and will carry you to Arena 4+:
 
@@ -64,5 +67,8 @@ This is where Giant Beatdown shines. Chain Giant pushes ? as soon as one push is
 4. **Playing Prince at the bridge.** Prince is a defensive card in Arena 1. Use him to kill their tank, then counter-push.
 
 ## Progression Tip
+
+![Progression Tip](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.RbU3YGTfwGWhfVdid0lgLQHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=b1dad5c724b1cd9a23dbf956fcdbed950d82061038b1de189c29ee4d95ece4ab&ipo=images)
+
 
 Once you unlock Arena 2 (Bone Pit), add Tombstone (3 elixir) to replace Bomber. Tombstone counters Prince, Mini P.E.K.K.A, and Giant for a positive elixir trade. This single card swap improves the deck significantly.

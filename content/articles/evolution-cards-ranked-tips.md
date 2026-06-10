@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Evolution Cards
 
+![10 Tips for Evolution Cards](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.J55awMo-z5h-EEeMwMU0mwHaJy%3Fr%3D0%26pid%3DApi&f=1&ipt=099f6a94b390511ee279e505015cec8adc54d28fc419928d949e3c187dc08258&ipo=images)
+
+
 ### 1. Always Run at Least 1 Evolution Above 5,000 Trophies
 
 Evolution cards have a 56% average win rate. Non-evolution decks: 48%. The 8% gap is worth more than any single card swap. If you have no evolutions, you are playing at a permanent disadvantage.
@@ -53,3 +56,4 @@ Your Evo Knight is ready. Do not play him to cycle. Save him for the Golem push 
 ### 10. Check the Meta Before Choosing
 
 RoyaleAPI updates win rates daily. Knight Evo at 59% today. Firecracker at 58%. If a balance change nerfs Firecracker (fire pool damage reduced), her win rate drops. Check current stats before committing upgrades. A 10,000-gold investment in a nerfed evo is permanently lost.
+
